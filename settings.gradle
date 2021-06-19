@@ -1,0 +1,2 @@
+rootProject.name = "By using intent to send an Email and WhatsApp Message"
+include ':app'
